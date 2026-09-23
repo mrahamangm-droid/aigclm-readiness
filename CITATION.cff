@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this tool, please cite the framework paper it implements."
+title: "AI-GCLM Readiness Assessment"
+type: software
+authors:
+  - family-names: "Rahaman"
+    given-names: "Mohammad Habibur"
+    orcid: "https://orcid.org/0009-0000-2294-8968"
+repository-code: "https://github.com/mrahamangm-droid/aigclm-readiness"
+license: MIT
+preferred-citation:
+  type: article
+  title: "AI-GCLM: A Conceptual Framework for Artificial Intelligence–Enhanced Leadership in Global Construction Management"
+  authors:
+    - family-names: "Rahaman"
+      given-names: "Mohammad Habibur"
+      orcid: "https://orcid.org/0009-0000-2294-8968"
+  journal: "International Journal of Engineering Technology Research & Management"
+  year: 2025
+  volume: 9
+  issue: 5
+  start: 609
+  end: 615
+  doi: "10.5281/zenodo.21373248"
